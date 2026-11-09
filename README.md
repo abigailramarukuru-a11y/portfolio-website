@@ -14,3 +14,9 @@ Open `index.html` in a browser. No installation or build tools are needed.
 ## Notes
 - Update project links and descriptions as your projects evolve.
 - Do not publish private information, passwords, or confidential university materials.
+
+<a href="Abigail_Ramarukuru_CV.pdf"
+   class="btn btn-primary"
+   download="Abigail_Ramarukuru_CV.pdf">
+  ⬇ Download CV
+</a>
